@@ -34,3 +34,4 @@
  * [High (Availability\|Performance) WebSocket for Perl Real-Time Application // Speaker Deck](https://speakerdeck.com/mackee/high-availability-performance-websocket-for-perl-real-time-application)
  * [The World of Inline Module // Speaker Deck](https://speakerdeck.com/moznion/the-world-of-inline-module)
  * [Perl6 ecosystem // Speaker Deck](https://speakerdeck.com/shoichikaji/perl6-ecosystem)
+ * [萬國之津梁](https://www.slideshare.net/charsbar/ss-89444912)
