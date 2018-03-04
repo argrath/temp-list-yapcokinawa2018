@@ -1,5 +1,7 @@
 # 私家版 YAPC::Okinawa 2018 記事/資料まとめ
 
+([これは何?](readme.html))
+
 ## 記事
 
  * [YAPC::Okinawaに参加してきました！ - walkingmask’s development log](http://walkingmask.hatenablog.com/entry/2018/03/04/001024)
@@ -12,6 +14,7 @@
  * [YAPC::Okinawa 前夜祭でLTやりました。: むりやりハリボテェ](http://www.oddmutou.com/article/457395431.html)
  * [Seeker's eye: YAPC Okinawa](http://seeker-s-eye.blogspot.com/2018/03/yapc-okinawa.html)
  * [YAPC::Okinawaに参加してきました - ごはんと飲み物は紙一重](http://twdlab.hatenablog.com/entry/2018/03/04/193325)
+ * [YAPC::Okinawaに行ってきた - 鈍足ランナーのＩＴ日記](http://dokechin.hatenablog.com/entry/2018/03/04/115649)
 
 ## 資料
 
