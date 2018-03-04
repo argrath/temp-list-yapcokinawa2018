@@ -36,3 +36,7 @@
  * [The World of Inline Module // Speaker Deck](https://speakerdeck.com/moznion/the-world-of-inline-module)
  * [Perl6 ecosystem // Speaker Deck](https://speakerdeck.com/shoichikaji/perl6-ecosystem)
  * [萬國之津梁](https://www.slideshare.net/charsbar/ss-89444912)
+ * [GraphQL in production // Speaker Deck](https://speakerdeck.com/bird_tummy/graphql-in-production)
+ * [Perlを中心としたワンライナーあれこれ // Speaker Deck](https://speakerdeck.com/teckl/perlwozhong-xin-tositawanrainaarekore)
+ * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
+ * 
