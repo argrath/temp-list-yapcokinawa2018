@@ -40,3 +40,4 @@
  * [GraphQL in production // Speaker Deck](https://speakerdeck.com/bird_tummy/graphql-in-production)
  * [Perlを中心としたワンライナーあれこれ // Speaker Deck](https://speakerdeck.com/teckl/perlwozhong-xin-tositawanrainaarekore)
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
+ * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
