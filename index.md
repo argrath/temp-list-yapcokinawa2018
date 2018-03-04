@@ -17,6 +17,7 @@
  * [YAPC::Okinawaに行ってきた - 鈍足ランナーのＩＴ日記](http://dokechin.hatenablog.com/entry/2018/03/04/115649)
  * [YAPC::Okinawa 2018 ONNASONに行ってきました](https://blog.web-apps.tech/yapc_okinawa_2018/)
  * [YAPC::Okinawa 2018 ONNASON に参加できて最高だった話 - 俺イケ！！！](http://blog.jigyakkuma.org/2018/03/04/yapc-okinawa2018/)
+ * [YAPC::Okinawa 2018 に参加した - すぎゃーんメモ](http://memo.sugyan.com/entry/2018/03/04/214544)
 
 ## 資料
 
