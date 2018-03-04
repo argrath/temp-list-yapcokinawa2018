@@ -16,6 +16,7 @@
  * [YAPC::Okinawaに参加してきました - ごはんと飲み物は紙一重](http://twdlab.hatenablog.com/entry/2018/03/04/193325)
  * [YAPC::Okinawaに行ってきた - 鈍足ランナーのＩＴ日記](http://dokechin.hatenablog.com/entry/2018/03/04/115649)
  * [YAPC::Okinawa 2018 ONNASONに行ってきました](https://blog.web-apps.tech/yapc_okinawa_2018/)
+ * [YAPC::Okinawa 2018 ONNASON に参加できて最高だった話 - 俺イケ！！！](http://blog.jigyakkuma.org/2018/03/04/yapc-okinawa2018/)
 
 ## 資料
 
@@ -39,4 +40,3 @@
  * [GraphQL in production // Speaker Deck](https://speakerdeck.com/bird_tummy/graphql-in-production)
  * [Perlを中心としたワンライナーあれこれ // Speaker Deck](https://speakerdeck.com/teckl/perlwozhong-xin-tositawanrainaarekore)
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
- * 
