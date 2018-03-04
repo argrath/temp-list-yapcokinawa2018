@@ -15,6 +15,7 @@
  * [Seeker's eye: YAPC Okinawa](http://seeker-s-eye.blogspot.com/2018/03/yapc-okinawa.html)
  * [YAPC::Okinawaに参加してきました - ごはんと飲み物は紙一重](http://twdlab.hatenablog.com/entry/2018/03/04/193325)
  * [YAPC::Okinawaに行ってきた - 鈍足ランナーのＩＴ日記](http://dokechin.hatenablog.com/entry/2018/03/04/115649)
+ * [YAPC::Okinawa 2018 ONNASONに行ってきました](https://blog.web-apps.tech/yapc_okinawa_2018/)
 
 ## 資料
 
