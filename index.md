@@ -11,6 +11,7 @@
  * [今日はYAPC::Okinawa 2018 ONNASONの日です - 北海道苫小牧市出身の初老PGが書くブログ](http://hiratara.hatenadiary.jp/entry/2018/03/03/095904)
  * [YAPC::Okinawa 前夜祭でLTやりました。: むりやりハリボテェ](http://www.oddmutou.com/article/457395431.html)
  * [Seeker's eye: YAPC Okinawa](http://seeker-s-eye.blogspot.com/2018/03/yapc-okinawa.html)
+ * [YAPC::Okinawaに参加してきました - ごはんと飲み物は紙一重](http://twdlab.hatenablog.com/entry/2018/03/04/193325)
 
 ## 資料
 
