@@ -30,3 +30,4 @@
  * [Webサービスを監視するときに僕達が考えたこと / YAPC::Okinawa 2018 // Speaker Deck](https://speakerdeck.com/papix/yapc-okinawa-2018)
  * [思いは言葉に。 / YAPC::Okinawa Keynote Sponsor // Speaker Deck](https://speakerdeck.com/papix/yapc-okinawa-keynote-sponsor)
  * [logrotate殺プロセス事件 YAPC::Okinawa 2018 前夜祭 LT/Mystery of logrotate's death // Speaker Deck](https://speakerdeck.com/kazeburo/mystery-of-logrotates-death)
+ * [そろそろPerlでのHTTP/2について触れたい // Speaker Deck](https://speakerdeck.com/xaicron/2nituitehong-retai)
