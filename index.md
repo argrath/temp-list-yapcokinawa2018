@@ -3,7 +3,7 @@
 ## 記事
 
  * [YAPC::Okinawaに参加してきました！ - walkingmask’s development log](http://walkingmask.hatenablog.com/entry/2018/03/04/001024)
- * [YAPC::Okinawa 2018 ONNASON の前夜祭のリジェクトコンで発表しました | ゆとりの無いゆとり世代のゆとりを求めるブログ](https://14yutori21.wpblog.jp/archives/906)
+ * [YAPC::Okinawa 2018 ONNASON の前夜祭のリジェクトコンで発表しました \| ゆとりの無いゆとり世代のゆとりを求めるブログ](https://14yutori21.wpblog.jp/archives/906)
  * [全部Perlが教えてくれたこと – 西島 幸一郎 – Medium](https://medium.com/@k_nishijima/yapc-okinawa-2018-onnason-95c202a43679)
  * [YAPC::Okinawaに参加してきた - tompngのブログ](http://tompng.hatenablog.com/entry/2018/03/04/150836)
  * [YAPC::Okinawaで「Perlコーディングテクニック2018」という話をしました - アリ](http://akiym.hateblo.jp/entry/2018/03/03/182843)
