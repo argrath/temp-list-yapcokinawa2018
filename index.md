@@ -24,6 +24,7 @@
  * [YAPC::Okinawa 2018 ONNASON に行ってきた。: むりやりハリボテェ](http://www.oddmutou.com/article/457560599.html)
  * [YAPC::Okinawaのお手伝いに行きました - qvelの日記](https://qvel.hatenablog.jp/entry/2018/03/05/121404)
  * [YAPC:Okinawa 2018に参加しました！！ - 見習い魔法使いの日常](http://nishisi.hatenablog.com/entry/2018/03/04/160544)
+ * [YAPC::OKINAWAにプラチナスポンサーとして協賛しました🌺 #yapcjapan #yapcokinawa - Gyazo Blog](http://blogja.gyazo.com/entry/2018/03/05/153441)
 
 ## 資料
 
