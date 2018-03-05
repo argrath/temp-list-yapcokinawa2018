@@ -32,6 +32,7 @@
  * [YAPC::Okinawa 2018 Onnasonに行きつつ喋りました - その手の平は尻もつかめるさ](http://moznion.hatenadiary.com/entry/2018/03/05/223329)
  * [YAPC::Okinawa 2018 ONNASON に参加した - HsbtDiary(2018-03-03)](https://www.hsbt.org/diary/20180303.html)
  * [どんぞこ日誌(2018-03-05)](http://www.donzoko.net/cgi-bin/tdiary/20180305.html)
+ * [YAPC::Okinawa 2018 ONNASON に行ってきた - Hateburo: kazeburo hatenablog](http://kazeburo.hatenablog.com/entry/2018/03/06/005328)
 
 ## 資料
 
