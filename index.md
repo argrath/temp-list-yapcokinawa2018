@@ -27,6 +27,8 @@
  * [YAPC::OKINAWAにプラチナスポンサーとして協賛しました🌺 #yapcjapan #yapcokinawa - Gyazo Blog](http://blogja.gyazo.com/entry/2018/03/05/153441)
  * [YAPC::Okinawaにコアスタッフとして参加させて頂いたお話 - (イケイケエンジニアを)目指していく](http://kousy.hatenablog.com/entry/2018/03/05/YAPC%3A%3AOkinawa%E3%81%AB%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%84%E3%81%9F%E3%81%8A%E8%A9%B1)
  * [YAPC::Okinawa感想 - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](http://nekogata.hatenablog.com/entry/2018/03/05/184741)
+ * [YAPC::Okinawa 2018 ONNASON で GraphQL について話をした - /storage/tummy.log](http://rnitame.hatenablog.com/entry/yapcokinawa-2018-onnason)
+ * [YAPC::OkinawaでベストLT賞を貰った若者が得たもの - ps aux | grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/215638)
 
 ## 資料
 
@@ -65,4 +67,3 @@
 ### 本編LT
 
  * [新卒Rubyistが1ヶ月で Perl Mongerになった話 // Speaker Deck](https://speakerdeck.com/serinuntius/xin-zu-rubyistka1keyue-te-perl-mongerninatutahua)
-
