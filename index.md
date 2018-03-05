@@ -30,6 +30,7 @@
  * [YAPC::Okinawa 2018 ONNASON で GraphQL について話をした - /storage/tummy.log](http://rnitame.hatenablog.com/entry/yapcokinawa-2018-onnason)
  * [YAPC::OkinawaでベストLT賞を貰った若者が得たもの - ps aux \| grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/215638)
  * [YAPC::Okinawa 2018 Onnasonに行きつつ喋りました - その手の平は尻もつかめるさ](http://moznion.hatenadiary.com/entry/2018/03/05/223329)
+ * [YAPC::Okinawa 2018 ONNASON に参加した - HsbtDiary(2018-03-03)](https://www.hsbt.org/diary/20180303.html)
 
 ## 資料
 
