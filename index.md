@@ -29,6 +29,7 @@
  * [YAPC::Okinawa感想 - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く](http://nekogata.hatenablog.com/entry/2018/03/05/184741)
  * [YAPC::Okinawa 2018 ONNASON で GraphQL について話をした - /storage/tummy.log](http://rnitame.hatenablog.com/entry/yapcokinawa-2018-onnason)
  * [YAPC::OkinawaでベストLT賞を貰った若者が得たもの - ps aux | grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/215638)
+ * [YAPC::Okinawa 2018 Onnasonに行きつつ喋りました - その手の平は尻もつかめるさ](http://moznion.hatenadiary.com/entry/2018/03/05/223329)
 
 ## 資料
 
