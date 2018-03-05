@@ -18,6 +18,12 @@
  * [YAPC::Okinawa 2018 ONNASONに行ってきました](https://blog.web-apps.tech/yapc_okinawa_2018/)
  * [YAPC::Okinawa 2018 ONNASON に参加できて最高だった話 - 俺イケ！！！](http://blog.jigyakkuma.org/2018/03/04/yapc-okinawa2018/)
  * [YAPC::Okinawa 2018 に参加した - すぎゃーんメモ](http://memo.sugyan.com/entry/2018/03/04/214544)
+ * [YAPC::Okinawa 2018 ONNASON に行った - ミントフレーバー緑茶](http://mint.hateblo.jp/entry/2018/03/03/224851)
+ * [YAPC::Okinawaで, ｢Webサービスを監視するときに僕達が考えたこと｣というトークをしました - Masteries](https://papix.hatenablog.com/entry/2018/03/03/112532)
+ * [YAPC::Okinawa 2018に参加してきました - ps aux | grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/073000)
+ * [YAPC::Okinawa 2018 ONNASON に行ってきた。: むりやりハリボテェ](http://www.oddmutou.com/article/457560599.html)
+ * [YAPC::Okinawaのお手伝いに行きました - qvelの日記](https://qvel.hatenablog.jp/entry/2018/03/05/121404)
+ * [YAPC:Okinawa 2018に参加しました！！ - 見習い魔法使いの日常](http://nishisi.hatenablog.com/entry/2018/03/04/160544)
 
 ## 資料
 
@@ -42,3 +48,5 @@
  * [Perlを中心としたワンライナーあれこれ // Speaker Deck](https://speakerdeck.com/teckl/perlwozhong-xin-tositawanrainaarekore)
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
  * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
+ * [2018年春のPerl - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vS-1GMdeUTXiM81WPyXxlm7ISs6Duc5s19NHM4b75NvB_TW4CJOtz-y8oZTmXdsRovdcVYWQlhClWnc/pub?start=false&loop=false&delayms=60000#slide=id.gc6f9fe735_0_0)
+ * [知られざる、Alibaba Cloudを支えるオープンソース](https://www.slideshare.net/mosuke5/alibaba-cloud-89353793)
