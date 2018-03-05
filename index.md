@@ -25,6 +25,7 @@
  * [YAPC::Okinawaのお手伝いに行きました - qvelの日記](https://qvel.hatenablog.jp/entry/2018/03/05/121404)
  * [YAPC:Okinawa 2018に参加しました！！ - 見習い魔法使いの日常](http://nishisi.hatenablog.com/entry/2018/03/04/160544)
  * [YAPC::OKINAWAにプラチナスポンサーとして協賛しました🌺 #yapcjapan #yapcokinawa - Gyazo Blog](http://blogja.gyazo.com/entry/2018/03/05/153441)
+ * [YAPC::Okinawaにコアスタッフとして参加させて頂いたお話 - (イケイケエンジニアを)目指していく](http://kousy.hatenablog.com/entry/2018/03/05/YAPC%3A%3AOkinawa%E3%81%AB%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%84%E3%81%9F%E3%81%8A%E8%A9%B1)
 
 ## 資料
 
