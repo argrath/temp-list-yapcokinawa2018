@@ -30,18 +30,27 @@
 
 ## 資料
 
+### 前夜祭
+
  * [Docker で Webアプリ開発ノウハウ // Speaker Deck](https://speakerdeck.com/takashift/docker-de-webapurikai-fa-falseuhau)
+ * [知られざる、Alibaba Cloudを支えるオープンソース](https://www.slideshare.net/mosuke5/alibaba-cloud-89353793)
+
+### 前夜祭LT
+
+ * [クロスオリジンでログイン状態を継続させるように見せるテクニック // Speaker Deck](https://speakerdeck.com/oddmutou/kurosuorizinderoguinzhuang-tai-woji-sok-saseruyounijian-serutekunituku)
+ * [logrotate殺プロセス事件 YAPC::Okinawa 2018 前夜祭 LT/Mystery of logrotate's death // Speaker Deck](https://speakerdeck.com/kazeburo/mystery-of-logrotates-death)
+ * [Executable Image](https://www.slideshare.net/tomoyaishida1238/executable-image)
+
+### 本編
+
  * [Perlで実装されたLINE NEWSの裏側](https://www.slideshare.net/linecorp/perlline-news)
  * [全部Perlが 教えてくれたこと / YAPC Okinawa 2018 ONNASON // Speaker Deck](https://speakerdeck.com/knishijima/yapc-okinawa-2018-onnason)
- * [Executable Image](https://www.slideshare.net/tomoyaishida1238/executable-image)
  * [Perl in Mercari YAPC::Okinawa 2018 ONNASON // Speaker Deck](https://speakerdeck.com/kazeburo/perl-in-mercari-yapc-okinawa-2018-onnason)
  * [Perlコーディングテクニック2018 // Speaker Deck](https://speakerdeck.com/akiym/perlkodeingutekunituku2018)
  * [YAPC2018 - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vTreyEzQgBGmZZyMe-BQ5AegJuIMAnvVwgIcamUvnM0V2Zz0xn5DnNkoTWSRetNgwXU0-pgHNZn19bK/embed?start=false&loop=false&delayms=3000#slide=id.p9)
  * [A bridge to my carrier by the Perl](https://www.slideshare.net/linecorp/a-bridge-to-my-carrier-by-the-perl)
- * [クロスオリジンでログイン状態を継続させるように見せるテクニック // Speaker Deck](https://speakerdeck.com/oddmutou/kurosuorizinderoguinzhuang-tai-woji-sok-saseruyounijian-serutekunituku)
  * [Webサービスを監視するときに僕達が考えたこと / YAPC::Okinawa 2018 // Speaker Deck](https://speakerdeck.com/papix/yapc-okinawa-2018)
  * [思いは言葉に。 / YAPC::Okinawa Keynote Sponsor // Speaker Deck](https://speakerdeck.com/papix/yapc-okinawa-keynote-sponsor)
- * [logrotate殺プロセス事件 YAPC::Okinawa 2018 前夜祭 LT/Mystery of logrotate's death // Speaker Deck](https://speakerdeck.com/kazeburo/mystery-of-logrotates-death)
  * [そろそろPerlでのHTTP/2について触れたい // Speaker Deck](https://speakerdeck.com/xaicron/2nituitehong-retai)
  * [High (Availability\|Performance) WebSocket for Perl Real-Time Application // Speaker Deck](https://speakerdeck.com/mackee/high-availability-performance-websocket-for-perl-real-time-application)
  * [The World of Inline Module // Speaker Deck](https://speakerdeck.com/moznion/the-world-of-inline-module)
@@ -52,5 +61,8 @@
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
  * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
  * [2018年春のPerl - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vS-1GMdeUTXiM81WPyXxlm7ISs6Duc5s19NHM4b75NvB_TW4CJOtz-y8oZTmXdsRovdcVYWQlhClWnc/pub?start=false&loop=false&delayms=60000#slide=id.gc6f9fe735_0_0)
- * [知られざる、Alibaba Cloudを支えるオープンソース](https://www.slideshare.net/mosuke5/alibaba-cloud-89353793)
+
+### 本編LT
+
  * [新卒Rubyistが1ヶ月で Perl Mongerになった話 // Speaker Deck](https://speakerdeck.com/serinuntius/xin-zu-rubyistka1keyue-te-perl-mongerninatutahua)
+
