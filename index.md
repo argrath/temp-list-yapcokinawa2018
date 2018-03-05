@@ -20,7 +20,7 @@
  * [YAPC::Okinawa 2018 に参加した - すぎゃーんメモ](http://memo.sugyan.com/entry/2018/03/04/214544)
  * [YAPC::Okinawa 2018 ONNASON に行った - ミントフレーバー緑茶](http://mint.hateblo.jp/entry/2018/03/03/224851)
  * [YAPC::Okinawaで, ｢Webサービスを監視するときに僕達が考えたこと｣というトークをしました - Masteries](https://papix.hatenablog.com/entry/2018/03/03/112532)
- * [YAPC::Okinawa 2018に参加してきました - ps aux | grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/073000)
+ * [YAPC::Okinawa 2018に参加してきました - ps aux \| grep serinuntius](https://serinuntius.hatenablog.jp/entry/2018/03/05/073000)
  * [YAPC::Okinawa 2018 ONNASON に行ってきた。: むりやりハリボテェ](http://www.oddmutou.com/article/457560599.html)
  * [YAPC::Okinawaのお手伝いに行きました - qvelの日記](https://qvel.hatenablog.jp/entry/2018/03/05/121404)
  * [YAPC:Okinawa 2018に参加しました！！ - 見習い魔法使いの日常](http://nishisi.hatenablog.com/entry/2018/03/04/160544)
