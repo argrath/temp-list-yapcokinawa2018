@@ -65,6 +65,7 @@
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
  * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
  * [2018年春のPerl - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vS-1GMdeUTXiM81WPyXxlm7ISs6Duc5s19NHM4b75NvB_TW4CJOtz-y8oZTmXdsRovdcVYWQlhClWnc/pub?start=false&loop=false&delayms=60000#slide=id.gc6f9fe735_0_0)
+ * [WordPress 運用を支える Perl](https://www.slideshare.net/xtetsuji/wordpress-perl)
 
 ### 本編LT
 
