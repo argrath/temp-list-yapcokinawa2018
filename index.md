@@ -69,7 +69,9 @@
  * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
  * [2018年春のPerl - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vS-1GMdeUTXiM81WPyXxlm7ISs6Duc5s19NHM4b75NvB_TW4CJOtz-y8oZTmXdsRovdcVYWQlhClWnc/pub?start=false&loop=false&delayms=60000#slide=id.gc6f9fe735_0_0)
  * [WordPress 運用を支える Perl](https://www.slideshare.net/xtetsuji/wordpress-perl)
+ * [The Non-Programmer's Programming Techniques // Speaker Deck](https://speakerdeck.com/note103/the-non-programmers-programming-techniques)
 
 ### 本編LT
 
+ * [PPRとKeyword::Simpleと あとVariable::Declaration // Speaker Deck](https://speakerdeck.com/kfly8/pprtokeyword-simpleto-atovariable-declaration)
  * [新卒Rubyistが1ヶ月で Perl Mongerになった話 // Speaker Deck](https://speakerdeck.com/serinuntius/xin-zu-rubyistka1keyue-te-perl-mongerninatutahua)
