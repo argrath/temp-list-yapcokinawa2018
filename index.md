@@ -36,6 +36,7 @@
  * [YAPC::Okinawa 感想エントリ走り書き - uzullaがブログ](http://uzulla.hateblo.jp/entry/2018/03/06/012051)
  * [YAPC::Okinawa 2018 ONNASON - togacoder log](http://togaerror.hatenablog.com/entry/2018/03/06/124418)
  * [YAPC::Okinawa行ってきた - なかっちゃんtech blog](http://kaoru1615.hatenablog.com/entry/2018/03/06/214924)
+ * [YAPC::Okinawa 2018 ONNASON - ゆでたまごおいしい](http://boiled-egg.hatenablog.jp/entry/2018/03/06/214335)
 
 ## 資料
 
