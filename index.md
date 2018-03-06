@@ -34,6 +34,7 @@
  * [どんぞこ日誌(2018-03-05)](http://www.donzoko.net/cgi-bin/tdiary/20180305.html)
  * [YAPC::Okinawa 2018 ONNASON に行ってきた - Hateburo: kazeburo hatenablog](http://kazeburo.hatenablog.com/entry/2018/03/06/005328)
  * [YAPC::Okinawa 感想エントリ走り書き - uzullaがブログ](http://uzulla.hateblo.jp/entry/2018/03/06/012051)
+ * [YAPC::Okinawa 2018 ONNASON - togacoder log](http://togaerror.hatenablog.com/entry/2018/03/06/124418)
 
 ## 資料
 
