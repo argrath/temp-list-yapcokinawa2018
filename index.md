@@ -37,6 +37,7 @@
  * [YAPC::Okinawa 2018 ONNASON - togacoder log](http://togaerror.hatenablog.com/entry/2018/03/06/124418)
  * [YAPC::Okinawa行ってきた - なかっちゃんtech blog](http://kaoru1615.hatenablog.com/entry/2018/03/06/214924)
  * [YAPC::Okinawa 2018 ONNASON - ゆでたまごおいしい](http://boiled-egg.hatenablog.jp/entry/2018/03/06/214335)
+ * [YAPC::Okinawa 2018 ONNASON に参加した #yapcjapan - 私が歌川です](http://utgwkk.hateblo.jp/entry/2018/03/07/005719)
 
 ## 資料
 
