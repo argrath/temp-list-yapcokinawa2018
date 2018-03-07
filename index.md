@@ -40,6 +40,11 @@
  * [YAPC::Okinawa 2018 ONNASON に参加した #yapcjapan - 私が歌川です](http://utgwkk.hateblo.jp/entry/2018/03/07/005719)
  * [初めてのYAPC参加、ボランティアスタッフ、LT - unimarimo’s blog](https://unimarimo.hatenablog.com/entry/2018/03/07/021128)
  * [YAPC OKINAWA 2018に行ってきました - SHOWROOM Tech Blog](http://tech.showroom.co.jp/entry/2018/03/06/195437)
+ * [YAPC::Okinawa 2018 に行った #yapcjapan - yu3mars’ diary](http://yu3mars.hatenablog.com/entry/2018/03/07/060000)
+ * [YAPC::Okinawa 2018 ONNASON に行ってきた #yapcjapan - jitsu102's blog](http://jitsu102.hatenablog.com/entry/2018/03/07/072854)
+ * [YAPC::Okinawa 2018 を終えて - YAPC::Japan 運営ブログ](http://blog.yapcjapan.org/entry/2018/03/07/132718)
+ * [YAPC::Okinawa 2018 ONNASAN行ってきた - パルカワ2](http://hisaichi5518.hatenablog.jp/entry/2018/03/07/141024)
+ * [YAPC::Okinawa 2018 ONNASON 、最高でした！！ - カラクリスタ・ノート - Scrapbox](https://scrapbox.io/kalaclista/YAPC::Okinawa_2018_ONNASON_%E3%80%81%E6%9C%80%E9%AB%98%E3%81%A7%E3%81%97%E3%81%9F%EF%BC%81%EF%BC%81)
 
 ## 資料
 
