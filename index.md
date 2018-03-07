@@ -52,12 +52,17 @@
 
  * [Docker で Webアプリ開発ノウハウ // Speaker Deck](https://speakerdeck.com/takashift/docker-de-webapurikai-fa-falseuhau)
  * [知られざる、Alibaba Cloudを支えるオープンソース](https://www.slideshare.net/mosuke5/alibaba-cloud-89353793)
+ * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
 
 ### 前夜祭LT
 
+ * (Perlと私)
  * [クロスオリジンでログイン状態を継続させるように見せるテクニック // Speaker Deck](https://speakerdeck.com/oddmutou/kurosuorizinderoguinzhuang-tai-woji-sok-saseruyounijian-serutekunituku)
  * [logrotate殺プロセス事件 YAPC::Okinawa 2018 前夜祭 LT/Mystery of logrotate's death // Speaker Deck](https://speakerdeck.com/kazeburo/mystery-of-logrotates-death)
+ * [YAPC::Okinawaのタイムテーブルを表示するスマホアプリ](https://argrath.ub32.org/slide/2018/0302/yapc-okinawa-pre-lt.html)
+ * (爆速でXSモジュールを作る)
  * [Executable Image](https://www.slideshare.net/tomoyaishida1238/executable-image)
+ * (21(世紀|正規)の文字起こし・ライブ版)
 
 ### 本編
 
@@ -77,7 +82,6 @@
  * [GraphQL in production // Speaker Deck](https://speakerdeck.com/bird_tummy/graphql-in-production)
  * [Perlを中心としたワンライナーあれこれ // Speaker Deck](https://speakerdeck.com/teckl/perlwozhong-xin-tositawanrainaarekore)
  * [Perl's work inside the company // Speaker Deck](https://speakerdeck.com/seagirl/perls-work-inside-the-company)
- * [当日スライド - Google スライド](https://docs.google.com/presentation/d/1WP6miU9xMRXhCfm_Bh80Nnn8wzOeVzMxj_VNAYLek9w/embed?start=false&loop=false&delayms=3000#slide=id.g348a546864_0_0)
  * [2018年春のPerl - Google スライド](https://docs.google.com/presentation/d/e/2PACX-1vS-1GMdeUTXiM81WPyXxlm7ISs6Duc5s19NHM4b75NvB_TW4CJOtz-y8oZTmXdsRovdcVYWQlhClWnc/pub?start=false&loop=false&delayms=60000#slide=id.gc6f9fe735_0_0)
  * [WordPress 運用を支える Perl](https://www.slideshare.net/xtetsuji/wordpress-perl)
  * [The Non-Programmer's Programming Techniques // Speaker Deck](https://speakerdeck.com/note103/the-non-programmers-programming-techniques)
@@ -86,3 +90,6 @@
 
  * [PPRとKeyword::Simpleと あとVariable::Declaration // Speaker Deck](https://speakerdeck.com/kfly8/pprtokeyword-simpleto-atovariable-declaration)
  * [新卒Rubyistが1ヶ月で Perl Mongerになった話 // Speaker Deck](https://speakerdeck.com/serinuntius/xin-zu-rubyistka1keyue-te-perl-mongerninatutahua)
+ * [ActivityPubについて](https://argrath.ub32.org/slide/2018/0303/yapc-okinawa-lt.html)
+ * (Perl入学式in沖縄に参加して)
+ * (Acme大全が電子書籍化されて1年が過ぎました)
