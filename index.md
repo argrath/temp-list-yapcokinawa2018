@@ -62,7 +62,7 @@
  * [YAPC::Okinawaのタイムテーブルを表示するスマホアプリ](https://argrath.ub32.org/slide/2018/0302/yapc-okinawa-pre-lt.html)
  * (爆速でXSモジュールを作る)
  * [Executable Image](https://www.slideshare.net/tomoyaishida1238/executable-image)
- * (21(世紀|正規)の文字起こし・ライブ版)
+ * (21(世紀\|正規)の文字起こし・ライブ版)
 
 ### 本編
 
