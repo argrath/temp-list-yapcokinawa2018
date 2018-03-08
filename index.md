@@ -45,6 +45,10 @@
  * [YAPC::Okinawa 2018 を終えて - YAPC::Japan 運営ブログ](http://blog.yapcjapan.org/entry/2018/03/07/132718)
  * [YAPC::Okinawa 2018 ONNASAN行ってきた - パルカワ2](http://hisaichi5518.hatenablog.jp/entry/2018/03/07/141024)
  * [YAPC::Okinawa 2018 ONNASON 、最高でした！！ - カラクリスタ・ノート - Scrapbox](https://scrapbox.io/kalaclista/YAPC::Okinawa_2018_ONNASON_%E3%80%81%E6%9C%80%E9%AB%98%E3%81%A7%E3%81%97%E3%81%9F%EF%BC%81%EF%BC%81)
+ * [YAPC::Okinawa 2018 ONNASON　そしてYAPCから貰ったもの - Acme::AnaTofuZ->new;](http://anatofuz.hatenablog.com/entry/2018/03/07/223852)
+ * [My YAPC::Okinawa 2018 ONNASON - skaji’s blog](http://skaji.hateblo.jp/entry/2018/03/08/003509)
+ * [YAPC::Okinawa を開催した - アルパカ三銃士](http://codehex.hateblo.jp/entry/2018/03/08/100000)
+ * [YAPC::Okinawa 2018 ONNASONに参加してきました: シーサー渋谷ではたらく技術担当のブログ（SSGブログ）](http://techdev.seesaa.net/article/yapc_okinawa.html)
 
 ## 資料
 
