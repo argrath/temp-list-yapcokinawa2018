@@ -49,6 +49,7 @@
  * [My YAPC::Okinawa 2018 ONNASON - skaji’s blog](http://skaji.hateblo.jp/entry/2018/03/08/003509)
  * [YAPC::Okinawa を開催した - アルパカ三銃士](http://codehex.hateblo.jp/entry/2018/03/08/100000)
  * [YAPC::Okinawa 2018 ONNASONに参加してきました: シーサー渋谷ではたらく技術担当のブログ（SSGブログ）](http://techdev.seesaa.net/article/yapc_okinawa.html)
+ * [【YAPC::Okinawa】yapcjapan コンプリート！ - touba_rumbaの日記](http://touba-rumba.hatenablog.com/entry/2018/03/08/120023)
 
 ## 資料
 
