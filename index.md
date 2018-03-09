@@ -52,6 +52,8 @@
  * [【YAPC::Okinawa】yapcjapan コンプリート！ - touba_rumbaの日記](http://touba-rumba.hatenablog.com/entry/2018/03/08/120023)
  * [あきおの情報院生生活: YAPC::Okinawa2018に参加してきました。](http://1000neta.blogspot.com/2018/03/yapcokinawa2018.html)
  * [YAPC::Okinawa2018 - キュアセブン技術ブログ](http://shiningcureseven.hatenablog.com/entry/2018/03/08/213849)
+ * [YAPC::Okinawa 2018 ONNASONに(行っ\|喋っ)てきました #yapcjapan - ぱいぱいにっき](http://mackee.hatenablog.com/entry/2018/03/09/080000)
+ * [YAPC::Okinawa 2018 ONNASON に行ってきました #yapcjapan - ichigotake's diary](http://ichigotake.hateblo.jp/entry/2018/03/09/181457)
 
 ## 資料
 
