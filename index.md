@@ -54,6 +54,7 @@
  * [YAPC::Okinawa2018 - キュアセブン技術ブログ](http://shiningcureseven.hatenablog.com/entry/2018/03/08/213849)
  * [YAPC::Okinawa 2018 ONNASONに(行っ\|喋っ)てきました #yapcjapan - ぱいぱいにっき](http://mackee.hatenablog.com/entry/2018/03/09/080000)
  * [YAPC::Okinawa 2018 ONNASON に行ってきました #yapcjapan - ichigotake's diary](http://ichigotake.hateblo.jp/entry/2018/03/09/181457)
+ * [僕とPerlと時々::Okinawa - 一生プロトタイプ](https://forever-prototype.hatenablog.jp/entry/2018/03/09/235440)
 
 ## 資料
 
