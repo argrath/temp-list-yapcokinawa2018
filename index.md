@@ -57,6 +57,8 @@
  * [僕とPerlと時々::Okinawa - 一生プロトタイプ](https://forever-prototype.hatenablog.jp/entry/2018/03/09/235440)
  * [YAPC::Okinawaにいってきました - MP0](http://mp0liiu.hatenablog.com/entry/2018/03/10/180957)
  * [YAPC::Okinawa 2018に参加してきた話 - emahiro/b.log](http://ema-hiro.hatenablog.com/entry/2018/03/12/015710)
+ * [いろいろとありました。YAPC::Okinawa 2018 ONNASON - itoken417の日記](http://itoken417.hatenablog.com/entry/2018/03/11/163506)
+ * [YAPC::Okinawa 2018 ONNASON - sironekotoroの日記](http://sironekotoro.hateblo.jp/entry/2018/03/11/131518)
 
 ## 資料
 
