@@ -59,6 +59,7 @@
  * [YAPC::Okinawa 2018に参加してきた話 - emahiro/b.log](http://ema-hiro.hatenablog.com/entry/2018/03/12/015710)
  * [いろいろとありました。YAPC::Okinawa 2018 ONNASON - itoken417の日記](http://itoken417.hatenablog.com/entry/2018/03/11/163506)
  * [YAPC::Okinawa 2018 ONNASON - sironekotoroの日記](http://sironekotoro.hateblo.jp/entry/2018/03/11/131518)
+ * [YAPC::Okinawa 2018 ONNASONの記録 - the code to rock](http://note103.hateblo.jp/entry/2018/03/13/163912)
 
 ## 資料
 
