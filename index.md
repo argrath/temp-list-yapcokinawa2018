@@ -61,6 +61,7 @@
  * [YAPC::Okinawa 2018 ONNASON - sironekotoroの日記](http://sironekotoro.hateblo.jp/entry/2018/03/11/131518)
  * [YAPC::Okinawa 2018 ONNASONの記録 - the code to rock](http://note103.hateblo.jp/entry/2018/03/13/163912)
  * [YAPC::Okinawa 2018 ONNASON に行った - 最近のアクティビティ](https://itochan.hatenablog.com/entry/2018/03/14/234145)
+ * [YAPC::Okinawa 2018 ONNASONに行ってきた - kun432's blog](http://kun432.hatenablog.com/entry/2018/03/25/YAPC%3A%3AOkinawa_2018_ONNASON%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F)
 
 ## 資料
 
